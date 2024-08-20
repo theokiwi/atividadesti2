@@ -126,13 +126,13 @@ public class Principal {
                         
                         case 0:
                             System.out.println("SAINDO");
-                            return;  // Exit the loop and end the program
+                            return;  
                     }
                     break;
                 
                 case 0:
                     System.out.println("SAINDO");
-                    return;  // Exit the loop and end the program
+                    return;  
             }
         }
     }
